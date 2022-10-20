@@ -18,28 +18,10 @@ Here are some ideas to get you started:
 <!-- 방문자 수 https://hits.seeyoufarm.com -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin6796%2Fhit-counter&count_bg=%23A2CDE1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today%2FTotal&edge_flat=false)](https://github.com/Jin6796)
 
-
-<!-- 
-**Jin6796/Jin6796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
--->
-
 <!-- https://github.com/kyechan99/capsule-render -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
-
-👋🏻 Hi, I'm Jin
-- 📫 How to reach me: cc6796@naver.com
+👋🏻 Hi, I'm OhYesLee
+- 📫 How to reach me: qcmcm2@naver.com
 
 
 ### 📌 stack
@@ -67,6 +49,8 @@ Here are some ideas to get you started:
 ![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<img src="https://img.shields.io/badge/IntelliJIDEA-#000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+
 
 
 
